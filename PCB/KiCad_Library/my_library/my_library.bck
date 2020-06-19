@@ -1,0 +1,46 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2114H-3.3
+D Low dropout linear voltage regulator, 1A continuous load current
+K LDO
+F https://www.diodes.com/assets/Datasheets/AP2114.pdf
+$ENDCMP
+#
+$CMP BQ25886
+D BQ25886 Standalone 2-Cell, 2-A Boost-Mode Battery Charger With PowerPath, USB BC1.2
+F http://www.ti.com/lit/ds/symlink/bq25886.pdf
+$ENDCMP
+#
+$CMP LM3478
+D High-Efficiency Low-Side N-Channel Controller for Switching Regulator
+F http://www.ti.com/lit/ds/symlink/lm3478.pdf
+$ENDCMP
+#
+$CMP M74VHC1GT04DFT1G
+D Inverting buffer
+K 74VHC1G04
+F https://www.onsemi.com/pub/Collateral/MC74VHC1GT04-D.PDF
+$ENDCMP
+#
+$CMP MCP73833
+D Stand-Alone Linear Li-Ion / Li-Polymer Charge Management Controller
+F https://ww1.microchip.com/downloads/en/DeviceDoc/22005a.pdf
+$ENDCMP
+#
+$CMP SN74AHC125D
+D quadruple bus buffer gates
+K 74AHC125
+F http://www.ti.com/lit/ds/symlink/sn74ahc125.pdf
+$ENDCMP
+#
+$CMP STC3100
+D Battery monitor IC with Coulomb counter/gas gauge
+F https://www.st.com/resource/en/datasheet/stc3100.pdf
+$ENDCMP
+#
+$CMP TLV62130
+D TLV62130x 3-V to 17-V 3-A Step-Down Converter In 3x3 QFN Package
+F http://www.ti.com/lit/ds/symlink/tlv62130.pdf
+$ENDCMP
+#
+#End Doc Library

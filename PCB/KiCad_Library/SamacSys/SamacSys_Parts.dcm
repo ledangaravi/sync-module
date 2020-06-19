@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4-1437565-1
+D 6x6mm SMD tactile switch,5mm H 1.6N Black Button Tactile Switch, SPST-NO 0.05 A@ 12 V dc 1.4mm
+F http://uk.rs-online.com/web/p/products/4791508P
+$ENDCMP
+#
+$CMP BC-2001
+D MULTICOMP - BC-2001 - RETAINER CLIP, 20MM, SMT
+F https://componentsearchengine.com/Datasheets/2/BC-2001.pdf
+$ENDCMP
+#
+$CMP ESP32-WROVER-IB__16MB_
+D WiFi Modules (802.11) SMD MODULE, 3.3VESP32-DOWD, 16Mb Flash, EXT IPEX ANT; M213DH2864UC3Q0
+F https://componentsearchengine.com/Datasheets/1/ESP32-WROVER-IB (16MB).pdf
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP VL53L1CXV0FY_1
+D Long distance ranging Time-of-Flight sen
+F https://componentsearchengine.com/Datasheets/1/VL53L1CXV0FY_1.pdf
+$ENDCMP
+#
+#End Doc Library

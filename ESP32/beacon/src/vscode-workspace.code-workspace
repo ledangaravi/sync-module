@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "pio_test",
+			"path": "..\\..\\..\\..\\..\\..\\..\\Documents\\PlatformIO\\Projects\\pio_test"
+		},
+		{
+			"name": "receiver",
+			"path": "..\\..\\receiver"
+		}
+	],
+	"settings": {}
+}
